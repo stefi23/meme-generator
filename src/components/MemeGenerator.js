@@ -66,11 +66,11 @@ function MemeGenerator(){
                     
                      
                 
-                    <button>Gen</button>
+                    <button>Generate Meme!</button>
                 </form>
     
                 <div className="meme">
-                    <img src={randomImg} alt="" />
+                    <img class="image-center" src={randomImg} alt="random meme" />
                     <h2 className="top">{topText}</h2>
                     <h2 className="bottom">{bottomText}</h2>
                 </div>
