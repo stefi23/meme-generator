@@ -1,5 +1,5 @@
 import React from 'react';
-import image from "./images/meme.png"
+import image from "../images/meme.png"
 
 function Header() {
     return(
