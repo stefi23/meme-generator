@@ -17,7 +17,7 @@ function MemeGenerator(){
         setAllMemeImgs(response.data.memes);
         } 
     catch (err) {
-        console.error(err);
+                console.error(err);
         }
     }, []);
 
