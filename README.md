@@ -1,8 +1,8 @@
-# Quote Generator
+# Meme Generator
 
 > A website on which you generate meme's by adding text on random meme images.
 >
-> 👉 [Live demo link to be added]()
+> 👉 [Live demo](https://stefi.codes/meme-generator/)
 
 ![Meme Generator Screenshot](./src/images/meme-generator.png)
 
